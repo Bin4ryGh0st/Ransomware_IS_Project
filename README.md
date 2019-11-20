@@ -1,12 +1,17 @@
-# Ransomware_IS_Project
+# Ransomware_InfoSec_Project
 
 A Ransomware POC which uses AES Algorithm to Encrypt your File System (Educational Purposes Only).
 
-Information Security Project Submitted by:
+### Information Security Project Submitted by:
+
 Kaushal Bhansali (17103299,B8)
+
 Ankit Bathla     (17103302,B8)
+
 Gyan Ranjan      (17103306,B8)
+
 Harshit Bajpai   (17103293,B8)
+
 Harsh Tyagi      (17103322,B8)
 
 ----------------------------------------------------------------------------------------------------------------------
