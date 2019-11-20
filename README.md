@@ -17,7 +17,7 @@ Harsh Tyagi      (17103322,B8)
 ----------------------------------------------------------------------------------------------------------------------
 
 
-Warning: It is strictly recommended to run this ransomware in Virtual Machine.
+### Warning: It is strictly recommended to run this ransomware in Virtual Machine.
 
 Steps to make this project working on your machine:
 
